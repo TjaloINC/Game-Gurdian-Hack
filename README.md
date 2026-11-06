@@ -7,7 +7,7 @@ A custom Game Guardian Lua script for **Bullet Army Run** designed to modify in-
 ## 📌 Features
 
 * **Money Modifier:** Easily modify your in-game money.
-* **Lightweight Script:** Optimized Lua execution (`BulletEng-1.0.lua`).
+* **Lightweight Script:** Optimized Lua execution (`BulletEng-1.1.lua`).
 * **Easy Integration:** Designed for use with Game Guardian on Android/Emulators.
 
 ---
@@ -20,10 +20,10 @@ A custom Game Guardian Lua script for **Bullet Army Run** designed to modify in-
    * **Bullet Army Run** installed.
 
 2. **Steps:**
-   1. Download the latest `BulletEng-1.0.lua` script from the [Releases Page](https://github.com/TjaloINC/Game-Gurdian-Hack/releases).
+   1. Download the latest `BulletEng-1.1.lua` script from the [Releases Page](https://github.com/TjaloINC/Game-Gurdian-Hack/releases).
    2. Open Game Guardian and attach it to **Bullet Army Run**.
    3. Tap the **Execute Script (▶️)** button in Game Guardian.
-   4. Select `BulletEng-1.0.lua` and click **Execute**.
+   4. Select `BulletEng-1.1.lua` and click **Execute**.
    5. Make sure you have **some money available** in-game for the script to detect and modify the value properly.
 
 ---
