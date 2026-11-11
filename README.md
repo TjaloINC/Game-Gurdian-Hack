@@ -31,9 +31,13 @@ A custom Game Guardian Lua script for **Bullet Army Run** designed to modify in-
 ## 📦 Releases
 
 Download the latest tested version here:
-👉 **[Release V-1.1.0](https://github.com/TjaloINC/Game-Gurdian-Hack/releases/tag/Hack-Realese
+👉 **[Release V-1.2.0](https://github.com/TjaloINC/Game-Gurdian-Hack/releases/tag/Hack-V2
 )**
+---
 
+Download the latest Pre-realese  version here:
+👉 **[Pre-Release V-1.3.0](https://github.com/TjaloINC/Game-Gurdian-Hack/releases/tag/1.3.0
+)**
 ---
 
 ## ⚠️ Disclaimer
